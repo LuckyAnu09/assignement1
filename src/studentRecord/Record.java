@@ -65,7 +65,7 @@ do {
 		}while(eCatch == true & i<n );
 		
 		
-		System.out.println("End of data");
+		System.out.println("End of Student data");
 	}
 	
 	catch(InputMismatchException e) {
