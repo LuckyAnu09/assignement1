@@ -31,7 +31,7 @@ do {
 
 		System.out.println("Enter Name of Student"+(i)+":");
 		sName = scr.nextLine();
-		System.out.println("Enter Roll Number:");
+		System.out.println("Enter Roll Number :");
 		sRollNo = scr.nextInt();
 		System.out.println("Enter Subject 1 Marks :");
 		subject1Marks = scr.nextFloat();
